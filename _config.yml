@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://Kenscofield.github.io/
+url: https://kenscofield.github.io/
 date_format: "ordinal"
 title: 码志
 subtitle: "公众号：***"
-description: "Alphacc的个人博客，公众号：***"
-keywords: Kenscofield, 自由
+description: "kenscofield的个人博客，公众号：***"
+keywords: kenscofield, 自由
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: Kenscofield/Kenscofield.github.io
+repository: Kenscofield/kenscofield.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -54,7 +54,7 @@ highlight_theme: github
 author: Decheng Liao
 organization: 
 organization_url: 
-github_username: Kenscofield
+github_username: kenscofield
 location: Beijing, China
 email: 2001210335@stu.pku.edu.cn
 
@@ -133,20 +133,20 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Kenscofield
+    owner: kenscofield
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Kenscofield
+    owner: kenscofield
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://utteranc.es/
 utterances:
-    repo: Kenscofield/blog-comments
+    repo: kenscofield/blog-comments
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
