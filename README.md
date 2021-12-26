@@ -1,4 +1,4 @@
-# 码志
+# Alphacc
 
 我的个人博客：<https://kenscofield.org>，欢迎 Star 和 Fork。
 
